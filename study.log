@@ -1,0 +1,36 @@
+NESARC
+
+variables corresponding to
+   	  
+1. household environment
+   46-47:BUILDTYP:TYPE OF BUILDING FOR HOUSEHOLD
+    	1. Mobile home;
+	2. Detached one-family house;
+	3. Attached one-family house;
+	4. Building with 2 apartments;
+	5. Building with 3 to 4 apartments;
+	6. Building with 5 to 9 apartments;
+	7. Building with 10 to 19 apartments;
+	8. Building with 20 to 49 apartments;
+ 	9. Building with 50+ apartments;
+	10. "Other (boat, RV, etc.)";
+	11. One-family house (unspecified 2 or 3);
+	12. Apartment (unspecified 4-9);
+	99. Unknown building type;
+	
+   48-49:NUMPERS:NUMBER OF PERSONS IN HOUSEHOLD
+   	1-17. Persons
+
+   63-63:FATHERIH:FATHER OF RESPONDENT IN HOUSEHOLD
+   	1. Yes
+	2. No
+
+   64-64:MOTHERIH:MOTHER OF RESPONDENT IN HOUSEHOLD
+   	1. Yes
+	2. No
+
+2. social phobias
+   2818-2818:S7Q1:EVER HAD STRONG FEAR OR AVOIDANCE OF SOCIAL SITUATION
+    	1. Yes
+	2. No
+	9. Unknown
